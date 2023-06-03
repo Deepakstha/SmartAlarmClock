@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-zc=^p8q12caf%&uiy@!t60q_%ex969s(49t4(*epue)hlqzbvu
 DEBUG = True
 
 ALLOWED_HOSTS = []
+# 'mkhopfkswartocl'
 
 
 # Application definition
@@ -128,6 +129,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'smartalarmclockiic@gmail.com'
-EMAIL_HOST_PASSWORD = 'mkhopfkswartoclo'
+EMAIL_HOST_PASSWORD = 'password'
 EMAIL_USE_TLS = True
 # EMAIL_USE_SSL = False
